@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LineView">
+        <attr name="width_01" format="float"></attr>
+        <attr name="width_02" format="float"></attr>
+        <attr name="width_03" format="float"></attr>
+        <attr name="width_04" format="float"></attr>
+    </declare-styleable>
+</resources>

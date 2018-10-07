@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:line="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LineActivity">
+
+    <zhoujianfeng.main.bwie.com.newview.view.LineView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        line:width_01="100"
+        line:width_02="50"
+        line:width_03="400"
+        line:width_04="80" />
+
+</RelativeLayout>
